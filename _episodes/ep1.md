@@ -17,7 +17,7 @@ keypoints:
 - The FAIR Principles differ from Open data because they permit the owner of the data to control access, although as part of this they are required to define methods and instances where data could be accessed
 --- 
 ##### What is FAIR?
-FAIR is an acronym encompassing four foundational principles: Findability, Accessibility, Interoperability, and Reusability. The FAIR Principles aim to help researchers to share, reuse and manage their data. (Figure 1). FAIR is not limited to the Life Sciences and spans all research disciplines. The FAIR principles are not limited to data and can be applied to services, software, training and data workflows. 
+FAIR is an acronym encompassing four foundational principles: Findability, Accessibility, Interoperability, and Reusability. The FAIR Principles aim to help researchers to share, reuse and manage their data. (Figure 1). FAIR is not limited to the Life Sciences and spans all research disciplines. The FAIR principles are not limited to data and can be applied to services, software, training and data workflows
 
 ![Figure 1. Summary of FAIR principles](../fig/fairifying2.png)
 
